@@ -109,6 +109,13 @@ section{
     /* border:1px solid red; */
 }
 
+.heart-icon:active,
+.comment-icon:active,
+.dm-icon:active{
+    opacity: 70%;
+}
+
+
 
 .heart-icon,.likes, .username{
     margin-left: 10px;

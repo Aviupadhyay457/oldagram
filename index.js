@@ -1,7 +1,7 @@
 const posts = [
     {
-      name: "Pelé",
-      username: "Pelé1283",
+      name: "Pele",
+      username: "Pele1283",
       location: "Santos, Brazil",
       avatar: "images/avatar-pele.jpeg",
       post: "images/post-pele.jpg",
@@ -27,12 +27,12 @@ const posts = [
       likes: 5
   },
   {
-      name: "Salvador Dalí ",
+      name: "Salvador Dali ",
       username: "Salvador85",
       location: "Catalonia, Spain",
       avatar: "images/avatar-dali.webp",
       post: "images/post-dali.jpg",
-      comment: "Dalí!!!",
+      comment: "Dali!!!",
       likes: 111
   }
 ]
